@@ -1,0 +1,24 @@
+{
+  "name": "lato-fonts",
+  "authors": [
+    "Nguyen Duc Minh Quan <ducminhquan@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "latofonts.css",
+    "fonts/*"
+  ],
+  "keywords": [
+    "lato",
+    "fonts"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
